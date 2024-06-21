@@ -1,0 +1,605 @@
+2024-06-21T12:48:05.841704269Z SLF4J: No SLF4J providers were found.
+2024-06-21T12:48:05.841760817Z SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-06-21T12:48:05.841765321Z SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+2024-06-21T12:48:05.841767886Z SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+2024-06-21T12:48:05.841770436Z SLF4J: Ignoring binding found at [jar:file:/app/123-0.0.1-SNAPSHOT-shaded.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2024-06-21T12:48:05.841772952Z SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2024-06-21T12:48:06.026436761Z WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+2024-06-21T12:48:08.790768038Z Jun 21, 2024 12:48:08 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+2024-06-21T12:48:08.790794824Z WARNING: Unable to find CDP implementation matching 122
+2024-06-21T12:48:08.794742460Z Jun 21, 2024 12:48:08 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+2024-06-21T12:48:08.794765848Z WARNING: Unable to find version of CDP to use for 122.0.6261.69. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.11.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2024-06-21T12:48:09.319592179Z Jun 21, 2024 12:48:09 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:09.319613406Z INFO: Chrome open url.
+2024-06-21T12:48:11.391561674Z Username : shamm12
+2024-06-21T12:48:13.391678421Z Jun 21, 2024 12:48:13 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:13.391715538Z INFO: Username
+2024-06-21T12:48:13.452656820Z Password : Dream@9556
+2024-06-21T12:48:13.453088341Z Jun 21, 2024 12:48:13 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:13.453101481Z INFO: password
+2024-06-21T12:48:14.534283917Z Parent directory exists: false
+2024-06-21T12:48:14.534304804Z File exists: false
+2024-06-21T12:48:14.534677967Z Current permissions: [OWNER_READ, GROUP_EXECUTE, OWNER_WRITE, OWNER_EXECUTE, OTHERS_READ, OTHERS_EXECUTE, GROUP_READ]
+2024-06-21T12:48:14.538209897Z Screenshot saved to: /app/Captcha_ScreenShot/captcha.png
+2024-06-21T12:48:26.096608940Z Captcha solved: zhvgp
+2024-06-21T12:48:26.160239513Z Jun 21, 2024 12:48:26 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:26.160261756Z INFO: Captcha uploaded sucessfully
+2024-06-21T12:48:26.527263710Z Jun 21, 2024 12:48:26 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:26.527285438Z INFO: login sucessfully
+2024-06-21T12:48:29.084116054Z Jun 21, 2024 12:48:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:29.084137132Z INFO: Clicking on profile sucessfully
+2024-06-21T12:48:31.170263630Z Jun 21, 2024 12:48:31 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:31.170308659Z INFO: Enter the name  sucessfully
+2024-06-21T12:48:33.227642560Z Jun 21, 2024 12:48:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:33.227670499Z INFO:  Parent Mobile number sucessfully
+2024-06-21T12:48:33.281153940Z Jun 21, 2024 12:48:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:33.281181479Z INFO: Marital status uploaded successfully
+2024-06-21T12:48:35.370081301Z Jun 21, 2024 12:48:35 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:35.370108838Z INFO: Religion upload successfully
+2024-06-21T12:48:46.664335668Z Jun 21, 2024 12:48:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:46.664359536Z INFO: Caste upload successfully
+2024-06-21T12:48:48.716619657Z Jun 21, 2024 12:48:48 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:48.716642015Z INFO: Do you have Caste Certificate upload successfully
+2024-06-21T12:48:52.770916210Z Jun 21, 2024 12:48:52 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:52.770936645Z INFO:  Caste Certificate number upload successfully
+2024-06-21T12:48:52.837671955Z Jun 21, 2024 12:48:52 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:52.837694585Z INFO:  Caste Issuing District upload successfully
+2024-06-21T12:48:56.905477518Z Jun 21, 2024 12:48:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:56.905506252Z INFO:  Caste Applicant Name upload successfully
+2024-06-21T12:48:58.973683471Z Jun 21, 2024 12:48:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:48:58.973711216Z INFO:  Caste Issuing Authority upload successfully
+2024-06-21T12:49:03.085949904Z Downloaded file deleted successfully.
+2024-06-21T12:49:07.100676869Z Jun 21, 2024 12:49:07 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:07.100705416Z INFO:  Caste Certificate upload successfully
+2024-06-21T12:49:13.482637791Z Jun 21, 2024 12:49:13 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:13.482663261Z INFO:  Caste Certificate date upload successfully
+2024-06-21T12:49:17.565991549Z Jun 21, 2024 12:49:17 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:17.566014966Z INFO:  Anual Income upload successfully
+2024-06-21T12:49:19.623602867Z Jun 21, 2024 12:49:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:19.623622457Z INFO:  have Income Certificate upload successfully
+2024-06-21T12:49:19.681814682Z Jun 21, 2024 12:49:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:19.681834597Z INFO:  Income Certificate No upload successfully
+2024-06-21T12:49:21.745269669Z Jun 21, 2024 12:49:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:21.745294400Z INFO:  Income Issuing Authority upload successfully
+2024-06-21T12:49:27.848309325Z Downloaded file deleted successfully.
+2024-06-21T12:49:29.857299509Z Jun 21, 2024 12:49:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:29.857322920Z INFO:  Income Certificate upload successfully
+2024-06-21T12:49:32.187348982Z Jun 21, 2024 12:49:32 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:32.187382797Z INFO:  Income Certificate Date upload successfully
+2024-06-21T12:49:36.230791704Z Jun 21, 2024 12:49:36 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:36.230816083Z INFO:  Are you Domicile of Maharashtra / Maharashtra-Karnataka Border upload successfully
+2024-06-21T12:49:38.274861532Z Jun 21, 2024 12:49:38 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:38.274887989Z INFO:  Do you have Domicile Certificate upload successfully
+2024-06-21T12:49:38.340501379Z Jun 21, 2024 12:49:38 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:38.340530190Z INFO:  Relation Type upload successfully
+2024-06-21T12:49:40.395522140Z Jun 21, 2024 12:49:40 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:40.395547879Z INFO:  Domicile Certificate No upload successfully
+2024-06-21T12:49:42.459839146Z Jun 21, 2024 12:49:42 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:42.459859925Z INFO:  Applicant Name upload successfully
+2024-06-21T12:49:44.517867025Z Jun 21, 2024 12:49:44 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:44.517895795Z INFO:  Applicant Name upload successfully
+2024-06-21T12:49:48.582827417Z Downloaded file deleted successfully.
+2024-06-21T12:49:50.591785200Z Jun 21, 2024 12:49:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:50.591804210Z INFO:  Domacile Certificate upload successfully
+2024-06-21T12:49:53.886199833Z Jun 21, 2024 12:49:53 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:53.886229916Z INFO:  Domacile Certificate upload successfully
+2024-06-21T12:49:55.970704655Z Jun 21, 2024 12:49:55 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:55.970726366Z INFO:  are you salaraid upload successfully
+2024-06-21T12:49:58.074870267Z Jun 21, 2024 12:49:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:49:58.074894715Z INFO: Adhar link  upload successfully
+2024-06-21T12:50:04.075390530Z Jun 21, 2024 12:50:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:04.075420183Z INFO: Personal Information upload successfully
+2024-06-21T12:50:11.333085766Z Jun 21, 2024 12:50:11 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:11.333111340Z INFO: Address Section
+2024-06-21T12:50:13.396759456Z Jun 21, 2024 12:50:13 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:13.396793518Z INFO: Village Name upload successfully
+2024-06-21T12:50:17.507838901Z Jun 21, 2024 12:50:17 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:17.507870917Z INFO: Permannent Address District upload successfully
+2024-06-21T12:50:19.567590609Z Jun 21, 2024 12:50:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:19.567621543Z INFO: Permannent Address Taluka upload successfully
+2024-06-21T12:50:25.809091819Z Jun 21, 2024 12:50:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:25.809130660Z INFO:  Is Father Alive upload successfully
+2024-06-21T12:50:27.892511830Z Jun 21, 2024 12:50:27 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:27.892549302Z INFO:   Father Name upload successfully
+2024-06-21T12:50:29.957770631Z Jun 21, 2024 12:50:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:29.957807352Z INFO:   Father Occupation upload successfully
+2024-06-21T12:50:32.020925623Z Jun 21, 2024 12:50:32 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:32.020953896Z INFO:   Father Is Salaried? upload successfully
+2024-06-21T12:50:34.063401138Z Jun 21, 2024 12:50:34 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:34.063427478Z INFO:  Is Mother Alive upload successfully
+2024-06-21T12:50:36.141549417Z Jun 21, 2024 12:50:36 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:36.141600743Z INFO:  Mother name upload successfully
+2024-06-21T12:50:38.206013892Z Jun 21, 2024 12:50:38 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:38.206039873Z INFO:  Occupation upload successfully
+2024-06-21T12:50:40.266136146Z Jun 21, 2024 12:50:40 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:40.266175627Z INFO:  Is Salaried upload successfully
+2024-06-21T12:50:40.266304990Z Jun 21, 2024 12:50:40 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:40.266319586Z INFO:  Other Inforamation upload successfully
+2024-06-21T12:50:44.609192269Z Jun 21, 2024 12:50:44 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:44.609211977Z INFO:  Admission Year Cource upload successfully
+2024-06-21T12:50:44.679080222Z Jun 21, 2024 12:50:44 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:44.679105751Z INFO:  Institute State upload successfully
+2024-06-21T12:50:46.758691168Z Jun 21, 2024 12:50:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:46.758718127Z INFO:  Institute District upload successfully
+2024-06-21T12:50:48.820925010Z Jun 21, 2024 12:50:48 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:48.820953838Z INFO:  Institute Taluka upload successfully
+2024-06-21T12:50:50.892507823Z Jun 21, 2024 12:50:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:50.892545024Z INFO: Qualification Level upload successfully
+2024-06-21T12:50:50.971774963Z Jun 21, 2024 12:50:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:50.971796055Z INFO: Stream upload successfully
+2024-06-21T12:50:57.068857887Z Jun 21, 2024 12:50:57 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:50:57.068881325Z INFO:  College Name upload successfully
+2024-06-21T12:51:03.128640138Z Jun 21, 2024 12:51:03 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:03.128670325Z INFO:  Course Name upload successfully
+2024-06-21T12:51:03.189313247Z Jun 21, 2024 12:51:03 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:03.189334260Z INFO:  Admission Type upload successfully
+2024-06-21T12:51:03.219676186Z Jun 21, 2024 12:51:03 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:03.219710220Z INFO:  Cap_Percentage upload successfully
+2024-06-21T12:51:05.274895667Z Jun 21, 2024 12:51:05 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:05.274925800Z INFO:  Cap ID upload successfully
+2024-06-21T12:51:11.358644111Z Downloaded file deleted successfully.
+2024-06-21T12:51:11.358882784Z Jun 21, 2024 12:51:11 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:11.358897768Z INFO:  Cap Document upload successfully
+2024-06-21T12:51:12.421896874Z Jun 21, 2024 12:51:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:12.421914802Z INFO:  Year of study upload successfully
+2024-06-21T12:51:13.482960113Z Jun 21, 2024 12:51:13 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:13.482983802Z INFO:  First year completed or pursuing  upload successfully
+2024-06-21T12:51:15.756094851Z Jun 21, 2024 12:51:15 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:15.756118110Z INFO:  Admission date  upload successfully
+2024-06-21T12:51:16.801375474Z Jun 21, 2024 12:51:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:16.801402036Z INFO:  Fees Paid upload successfully
+2024-06-21T12:51:20.888668746Z Downloaded file deleted successfully.
+2024-06-21T12:51:20.889403627Z Jun 21, 2024 12:51:20 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:20.889422749Z INFO:  Fees/Admission Receipt/bonafide certificate  upload successfully
+2024-06-21T12:51:21.946267664Z Jun 21, 2024 12:51:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:21.946305700Z INFO:  Is Admission Through Open Or Reserved Category  upload successfully
+2024-06-21T12:51:25.004981047Z Jun 21, 2024 12:51:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:25.005009357Z INFO:  Mode  upload successfully
+2024-06-21T12:51:25.005078598Z Jun 21, 2024 12:51:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:25.005085379Z INFO:  Current Course details upload successfully
+2024-06-21T12:51:25.305605124Z Jun 21, 2024 12:51:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:25.305626364Z INFO:  Qualification Level upload successfully
+2024-06-21T12:51:28.409812651Z Jun 21, 2024 12:51:28 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:28.409836088Z INFO: Institute State upload successfully
+2024-06-21T12:51:29.466381891Z Jun 21, 2024 12:51:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:29.466408196Z INFO: Institute District upload successfully
+2024-06-21T12:51:31.522778830Z Jun 21, 2024 12:51:31 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:31.522799291Z INFO: Institute Taluka upload successfully
+2024-06-21T12:51:32.580526591Z Jun 21, 2024 12:51:32 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:32.580544207Z INFO: Institute Course upload successfully
+2024-06-21T12:51:36.649338331Z Jun 21, 2024 12:51:36 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:36.649362386Z INFO: Board of exam  upload successfully
+2024-06-21T12:51:37.701665324Z Jun 21, 2024 12:51:37 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:37.701686713Z INFO: Mode 10 th upload successfully
+2024-06-21T12:51:38.759263989Z Jun 21, 2024 12:51:38 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:38.759283598Z INFO: Admission year upload successfully
+2024-06-21T12:51:40.827198017Z Jun 21, 2024 12:51:40 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:40.827221196Z INFO: Passing year upload successfully
+2024-06-21T12:51:41.908452505Z Jun 21, 2024 12:51:41 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:41.908480665Z INFO: Result upload successfully
+2024-06-21T12:51:43.989858333Z Jun 21, 2024 12:51:43 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:43.989888171Z INFO: Persentage upload successfully
+2024-06-21T12:51:46.034464188Z Jun 21, 2024 12:51:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:46.034492582Z INFO: Attempt upload successfully
+2024-06-21T12:51:50.096002377Z Jun 21, 2024 12:51:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:50.096036009Z INFO: Markshit Document upload successfully
+2024-06-21T12:51:52.096379865Z Jun 21, 2024 12:51:52 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:52.096409232Z INFO:  10 th details  upload successfully
+2024-06-21T12:51:52.375583558Z Jun 21, 2024 12:51:52 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:52.375604090Z INFO:  Qulification level upload successfully
+2024-06-21T12:51:58.584654752Z Jun 21, 2024 12:51:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:51:58.584679021Z INFO:  Stream upload successfully
+2024-06-21T12:52:02.618203516Z Jun 21, 2024 12:52:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:02.618326468Z INFO:  State upload successfully
+2024-06-21T12:52:04.675187100Z Jun 21, 2024 12:52:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:04.675207749Z INFO:  Institute District upload successfully
+2024-06-21T12:52:06.730435652Z Jun 21, 2024 12:52:06 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:06.730460722Z INFO:  Institute taluka upload successfully
+2024-06-21T12:52:08.788400583Z Jun 21, 2024 12:52:08 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:08.788420085Z INFO:  College name  upload successfully
+2024-06-21T12:52:10.890809534Z Jun 21, 2024 12:52:10 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:10.890836810Z INFO: Course upload successfully
+2024-06-21T12:52:12.981980489Z Jun 21, 2024 12:52:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:12.982016186Z INFO: Board/University upload successfully
+2024-06-21T12:52:15.030874353Z Jun 21, 2024 12:52:15 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:15.030912532Z INFO: Mode upload successfully
+2024-06-21T12:52:17.084047699Z Jun 21, 2024 12:52:17 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:17.084070990Z INFO: Admission Year upload successfully
+2024-06-21T12:52:19.138020908Z Jun 21, 2024 12:52:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:19.138048497Z INFO: Passing Year upload successfully
+2024-06-21T12:52:21.188831474Z Jun 21, 2024 12:52:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:21.188864309Z INFO: Result upload successfully
+2024-06-21T12:52:23.256644896Z Jun 21, 2024 12:52:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:23.256675954Z INFO: Percentage upload successfully
+2024-06-21T12:52:25.304798372Z Jun 21, 2024 12:52:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:25.304822463Z INFO:  Attempts upload successfully
+2024-06-21T12:52:29.374786123Z Jun 21, 2024 12:52:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:29.374812231Z INFO:  Markshit upload successfully
+2024-06-21T12:52:34.712479355Z Jun 21, 2024 12:52:34 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:34.712520690Z INFO:  DayScholar upload successfully
+2024-06-21T12:52:39.712656697Z Script run count: 1
+2024-06-21T12:52:50.003253911Z Jun 21, 2024 12:52:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:50.003280870Z INFO: LogOut
+2024-06-21T12:52:52.107641796Z driver is close
+2024-06-21T12:52:52.339679384Z Jun 21, 2024 12:52:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+2024-06-21T12:52:52.339710809Z WARNING: Unable to find CDP implementation matching 122
+2024-06-21T12:52:52.339943207Z Jun 21, 2024 12:52:52 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+2024-06-21T12:52:52.339957295Z WARNING: Unable to find version of CDP to use for 122.0.6261.69. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.11.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2024-06-21T12:52:52.704627970Z Jun 21, 2024 12:52:52 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:52.704649733Z INFO: Chrome open url.
+2024-06-21T12:52:54.765560208Z Username : Thunder
+2024-06-21T12:52:56.765942758Z Jun 21, 2024 12:52:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:56.765965185Z INFO: Username
+2024-06-21T12:52:56.823638326Z Password : Gurme@123
+2024-06-21T12:52:56.823834332Z Jun 21, 2024 12:52:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:52:56.823839827Z INFO: password
+2024-06-21T12:52:57.885972218Z Parent directory exists: true
+2024-06-21T12:52:57.885990234Z File exists: true
+2024-06-21T12:52:57.886066153Z Current permissions: [OWNER_READ, GROUP_EXECUTE, OWNER_WRITE, OWNER_EXECUTE, OTHERS_READ, OTHERS_EXECUTE, GROUP_READ]
+2024-06-21T12:52:57.886392451Z Screenshot saved to: /app/Captcha_ScreenShot/captcha.png
+2024-06-21T12:53:09.271603021Z Captcha solved: usrpv
+2024-06-21T12:53:09.321214151Z Jun 21, 2024 12:53:09 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:09.321247310Z INFO: Captcha uploaded sucessfully
+2024-06-21T12:53:09.651421104Z Jun 21, 2024 12:53:09 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:09.651444176Z INFO: login sucessfully
+2024-06-21T12:53:12.215829049Z Jun 21, 2024 12:53:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:12.215877216Z INFO: Clicking on profile sucessfully
+2024-06-21T12:53:14.274707370Z Jun 21, 2024 12:53:14 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:14.274734871Z INFO: Enter the name  sucessfully
+2024-06-21T12:53:16.332540590Z Jun 21, 2024 12:53:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:16.332586813Z INFO:  Parent Mobile number sucessfully
+2024-06-21T12:53:16.383085079Z Jun 21, 2024 12:53:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:16.383126446Z INFO: Marital status uploaded successfully
+2024-06-21T12:53:18.461394642Z Jun 21, 2024 12:53:18 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:18.461420734Z INFO: Religion upload successfully
+2024-06-21T12:53:29.683515324Z Jun 21, 2024 12:53:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:29.683540897Z INFO: Caste upload successfully
+2024-06-21T12:53:31.730650035Z Jun 21, 2024 12:53:31 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:31.730671068Z INFO: Do you have Caste Certificate upload successfully
+2024-06-21T12:53:35.780064824Z Jun 21, 2024 12:53:35 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:35.780098479Z INFO:  Caste Certificate number upload successfully
+2024-06-21T12:53:35.844281205Z Jun 21, 2024 12:53:35 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:35.844304338Z INFO:  Caste Issuing District upload successfully
+2024-06-21T12:53:39.910642930Z Jun 21, 2024 12:53:39 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:39.910673716Z INFO:  Caste Applicant Name upload successfully
+2024-06-21T12:53:41.974660033Z Jun 21, 2024 12:53:41 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:41.974686381Z INFO:  Caste Issuing Authority upload successfully
+2024-06-21T12:53:46.050807855Z Downloaded file deleted successfully.
+2024-06-21T12:53:50.058835989Z Jun 21, 2024 12:53:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:50.058867564Z INFO:  Caste Certificate upload successfully
+2024-06-21T12:53:56.346160032Z Jun 21, 2024 12:53:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:53:56.346191569Z INFO:  Caste Certificate date upload successfully
+2024-06-21T12:54:00.419521534Z Jun 21, 2024 12:54:00 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:00.419550594Z INFO:  Anual Income upload successfully
+2024-06-21T12:54:02.465555243Z Jun 21, 2024 12:54:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:02.465602384Z INFO:  have Income Certificate upload successfully
+2024-06-21T12:54:02.518314688Z Jun 21, 2024 12:54:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:02.518349800Z INFO:  Income Certificate No upload successfully
+2024-06-21T12:54:04.593929534Z Jun 21, 2024 12:54:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:04.593957075Z INFO:  Income Issuing Authority upload successfully
+2024-06-21T12:54:10.670727265Z Downloaded file deleted successfully.
+2024-06-21T12:54:12.681123624Z Jun 21, 2024 12:54:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:12.681147815Z INFO:  Income Certificate upload successfully
+2024-06-21T12:54:14.916447280Z Jun 21, 2024 12:54:14 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:14.916478534Z INFO:  Income Certificate Date upload successfully
+2024-06-21T12:54:18.957154006Z Jun 21, 2024 12:54:18 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:18.957180664Z INFO:  Are you Domicile of Maharashtra / Maharashtra-Karnataka Border upload successfully
+2024-06-21T12:54:21.000330398Z Jun 21, 2024 12:54:20 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:21.000351375Z INFO:  Do you have Domicile Certificate upload successfully
+2024-06-21T12:54:21.058967344Z Jun 21, 2024 12:54:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:21.058990111Z INFO:  Relation Type upload successfully
+2024-06-21T12:54:23.121146787Z Jun 21, 2024 12:54:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:23.121216809Z INFO:  Domicile Certificate No upload successfully
+2024-06-21T12:54:25.180886580Z Jun 21, 2024 12:54:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:25.180918011Z INFO:  Applicant Name upload successfully
+2024-06-21T12:54:27.237043098Z Jun 21, 2024 12:54:27 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:27.237096863Z INFO:  Applicant Name upload successfully
+2024-06-21T12:54:31.307422314Z Downloaded file deleted successfully.
+2024-06-21T12:54:33.316079471Z Jun 21, 2024 12:54:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:33.316112855Z INFO:  Domacile Certificate upload successfully
+2024-06-21T12:54:36.551978529Z Jun 21, 2024 12:54:36 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:36.552001762Z INFO:  Domacile Certificate upload successfully
+2024-06-21T12:54:38.606058780Z Jun 21, 2024 12:54:38 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:38.606104541Z INFO:  are you salaraid upload successfully
+2024-06-21T12:54:40.706516711Z Jun 21, 2024 12:54:40 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:40.706541839Z INFO: Adhar link  upload successfully
+2024-06-21T12:54:46.706967599Z Jun 21, 2024 12:54:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:46.706996427Z INFO: Personal Information upload successfully
+2024-06-21T12:54:54.066539043Z Jun 21, 2024 12:54:54 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:54.066563233Z INFO: Address Section
+2024-06-21T12:54:56.126617697Z Jun 21, 2024 12:54:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:54:56.126634632Z INFO: Village Name upload successfully
+2024-06-21T12:55:00.228407290Z Jun 21, 2024 12:55:00 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:00.228436412Z INFO: Permannent Address District upload successfully
+2024-06-21T12:55:02.284234475Z Jun 21, 2024 12:55:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:02.284264459Z INFO: Permannent Address Taluka upload successfully
+2024-06-21T12:55:08.652117712Z Jun 21, 2024 12:55:08 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:08.652147863Z INFO:  Is Father Alive upload successfully
+2024-06-21T12:55:10.749061316Z Jun 21, 2024 12:55:10 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:10.749092381Z INFO:   Father Name upload successfully
+2024-06-21T12:55:12.817896768Z Jun 21, 2024 12:55:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:12.817921079Z INFO:   Father Occupation upload successfully
+2024-06-21T12:55:14.895895299Z Jun 21, 2024 12:55:14 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:14.895920062Z INFO:   Father Is Salaried? upload successfully
+2024-06-21T12:55:16.937885014Z Jun 21, 2024 12:55:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:16.937924212Z INFO:  Is Mother Alive upload successfully
+2024-06-21T12:55:19.016915778Z Jun 21, 2024 12:55:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:19.016946655Z INFO:  Mother name upload successfully
+2024-06-21T12:55:21.077940683Z Jun 21, 2024 12:55:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:21.077979402Z INFO:  Occupation upload successfully
+2024-06-21T12:55:23.136080207Z Jun 21, 2024 12:55:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:23.136110133Z INFO:  Is Salaried upload successfully
+2024-06-21T12:55:23.136153948Z Jun 21, 2024 12:55:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:23.136159316Z INFO:  Other Inforamation upload successfully
+2024-06-21T12:55:27.532913947Z Jun 21, 2024 12:55:27 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:27.532935333Z INFO:  Admission Year Cource upload successfully
+2024-06-21T12:55:27.584685592Z Jun 21, 2024 12:55:27 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:27.584715731Z INFO:  Institute State upload successfully
+2024-06-21T12:55:29.650194094Z Jun 21, 2024 12:55:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:29.650222363Z INFO:  Institute District upload successfully
+2024-06-21T12:55:31.708463838Z Jun 21, 2024 12:55:31 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:31.708493942Z INFO:  Institute Taluka upload successfully
+2024-06-21T12:55:33.764739422Z Jun 21, 2024 12:55:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:33.764765237Z INFO: Qualification Level upload successfully
+2024-06-21T12:55:33.840169617Z Jun 21, 2024 12:55:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:33.840194987Z INFO: Stream upload successfully
+2024-06-21T12:55:39.927911355Z Jun 21, 2024 12:55:39 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:39.927940437Z INFO:  College Name upload successfully
+2024-06-21T12:55:46.015335601Z Jun 21, 2024 12:55:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:46.015363567Z INFO:  Course Name upload successfully
+2024-06-21T12:55:46.085202543Z Jun 21, 2024 12:55:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:46.085222525Z INFO:  Admission Type upload successfully
+2024-06-21T12:55:46.128111900Z Jun 21, 2024 12:55:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:46.128133668Z INFO:  Cap_Percentage upload successfully
+2024-06-21T12:55:48.195167341Z Jun 21, 2024 12:55:48 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:48.195193899Z INFO:  Cap ID upload successfully
+2024-06-21T12:55:54.283476602Z Downloaded file deleted successfully.
+2024-06-21T12:55:54.283767855Z Jun 21, 2024 12:55:54 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:54.283783228Z INFO:  Cap Document upload successfully
+2024-06-21T12:55:55.341668290Z Jun 21, 2024 12:55:55 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:55.341692022Z INFO:  Year of study upload successfully
+2024-06-21T12:55:56.414226053Z Jun 21, 2024 12:55:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:56.414250473Z INFO:  First year completed or pursuing  upload successfully
+2024-06-21T12:55:58.681113578Z Jun 21, 2024 12:55:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:58.681135183Z INFO:  Admission date  upload successfully
+2024-06-21T12:55:59.725119583Z Jun 21, 2024 12:55:59 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:55:59.725158730Z INFO:  Fees Paid upload successfully
+2024-06-21T12:56:03.833958384Z Downloaded file deleted successfully.
+2024-06-21T12:56:03.834540920Z Jun 21, 2024 12:56:03 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:03.834587193Z INFO:  Fees/Admission Receipt/bonafide certificate  upload successfully
+2024-06-21T12:56:04.891126348Z Jun 21, 2024 12:56:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:04.891152630Z INFO:  Is Admission Through Open Or Reserved Category  upload successfully
+2024-06-21T12:56:07.945293795Z Jun 21, 2024 12:56:07 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:07.945320371Z INFO:  Mode  upload successfully
+2024-06-21T12:56:07.945396348Z Jun 21, 2024 12:56:07 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:07.945403202Z INFO:  Current Course details upload successfully
+2024-06-21T12:56:08.343793147Z Jun 21, 2024 12:56:08 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:08.343812131Z INFO:  Qualification Level upload successfully
+2024-06-21T12:56:11.445613547Z Jun 21, 2024 12:56:11 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:11.445640142Z INFO: Institute State upload successfully
+2024-06-21T12:56:12.496490370Z Jun 21, 2024 12:56:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:12.496512991Z INFO: Institute District upload successfully
+2024-06-21T12:56:14.544721632Z Jun 21, 2024 12:56:14 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:14.544739442Z INFO: Institute Taluka upload successfully
+2024-06-21T12:56:15.601015381Z Jun 21, 2024 12:56:15 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:15.601035508Z INFO: Institute Course upload successfully
+2024-06-21T12:56:19.663382583Z Jun 21, 2024 12:56:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:19.663414117Z INFO: Board of exam  upload successfully
+2024-06-21T12:56:20.709946441Z Jun 21, 2024 12:56:20 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:20.709976612Z INFO: Mode 10 th upload successfully
+2024-06-21T12:56:21.766083574Z Jun 21, 2024 12:56:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:21.766101407Z INFO: Admission year upload successfully
+2024-06-21T12:56:23.826037992Z Jun 21, 2024 12:56:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:23.826064282Z INFO: Passing year upload successfully
+2024-06-21T12:56:24.880230020Z Jun 21, 2024 12:56:24 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:24.880258574Z INFO: Result upload successfully
+2024-06-21T12:56:26.963795355Z Jun 21, 2024 12:56:26 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:26.963824245Z INFO: Persentage upload successfully
+2024-06-21T12:56:29.006771503Z Jun 21, 2024 12:56:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:29.006789233Z INFO: Attempt upload successfully
+2024-06-21T12:56:33.122474971Z Jun 21, 2024 12:56:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:33.122500724Z INFO: Markshit Document upload successfully
+2024-06-21T12:56:35.122827317Z Jun 21, 2024 12:56:35 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:35.122865510Z INFO:  10 th details  upload successfully
+2024-06-21T12:56:35.482497293Z Jun 21, 2024 12:56:35 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:35.482526795Z INFO:  Qulification level upload successfully
+2024-06-21T12:56:41.716846450Z Jun 21, 2024 12:56:41 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:41.716875490Z INFO:  Stream upload successfully
+2024-06-21T12:56:45.757459607Z Jun 21, 2024 12:56:45 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:45.757474282Z INFO:  State upload successfully
+2024-06-21T12:56:47.815483542Z Jun 21, 2024 12:56:47 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:47.815506071Z INFO:  Institute District upload successfully
+2024-06-21T12:56:49.863790053Z Jun 21, 2024 12:56:49 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:49.863829079Z INFO:  Institute taluka upload successfully
+2024-06-21T12:56:51.920501090Z Jun 21, 2024 12:56:51 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:51.920524679Z INFO:  College name  upload successfully
+2024-06-21T12:56:54.022842073Z Jun 21, 2024 12:56:54 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:54.022877504Z INFO: Course upload successfully
+2024-06-21T12:56:56.112713360Z Jun 21, 2024 12:56:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:56.112748043Z INFO: Board/University upload successfully
+2024-06-21T12:56:58.159417626Z Jun 21, 2024 12:56:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:56:58.159438996Z INFO: Mode upload successfully
+2024-06-21T12:57:00.212962636Z Jun 21, 2024 12:57:00 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:00.212980536Z INFO: Admission Year upload successfully
+2024-06-21T12:57:02.266636963Z Jun 21, 2024 12:57:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:02.266665568Z INFO: Passing Year upload successfully
+2024-06-21T12:57:04.330927007Z Jun 21, 2024 12:57:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:04.330953799Z INFO: Result upload successfully
+2024-06-21T12:57:06.392836467Z Jun 21, 2024 12:57:06 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:06.392867908Z INFO: Percentage upload successfully
+2024-06-21T12:57:08.440033320Z Jun 21, 2024 12:57:08 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:08.440070137Z INFO:  Attempts upload successfully
+2024-06-21T12:57:12.517030679Z Jun 21, 2024 12:57:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:12.517066572Z INFO:  Markshit upload successfully
+2024-06-21T12:57:17.940851094Z Jun 21, 2024 12:57:17 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:17.940876814Z INFO:  DayScholar upload successfully
+2024-06-21T12:57:22.940991980Z Script run count: 2
+2024-06-21T12:57:33.222038147Z Jun 21, 2024 12:57:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:33.222061542Z INFO: LogOut
+2024-06-21T12:57:35.323375250Z driver is close
+2024-06-21T12:57:35.539004881Z Jun 21, 2024 12:57:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+2024-06-21T12:57:35.539026584Z WARNING: Unable to find CDP implementation matching 122
+2024-06-21T12:57:35.539124743Z Jun 21, 2024 12:57:35 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+2024-06-21T12:57:35.539132879Z WARNING: Unable to find version of CDP to use for 122.0.6261.69. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.11.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2024-06-21T12:57:35.881253084Z Jun 21, 2024 12:57:35 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:35.881272741Z INFO: Chrome open url.
+2024-06-21T12:57:37.942282306Z Username : shamm12
+2024-06-21T12:57:39.942711925Z Jun 21, 2024 12:57:39 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:39.942732311Z INFO: Username
+2024-06-21T12:57:40.030633376Z Password : Dream@9556
+2024-06-21T12:57:40.030701451Z Jun 21, 2024 12:57:40 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:40.030720089Z INFO: password
+2024-06-21T12:57:41.106754115Z Parent directory exists: true
+2024-06-21T12:57:41.106773815Z File exists: true
+2024-06-21T12:57:41.106867673Z Current permissions: [OWNER_READ, GROUP_EXECUTE, OWNER_WRITE, OWNER_EXECUTE, OTHERS_READ, OTHERS_EXECUTE, GROUP_READ]
+2024-06-21T12:57:41.107278896Z Screenshot saved to: /app/Captcha_ScreenShot/captcha.png
+2024-06-21T12:57:52.768357565Z Captcha solved: zjvql
+2024-06-21T12:57:52.812167027Z Jun 21, 2024 12:57:52 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:52.812189143Z INFO: Captcha uploaded sucessfully
+2024-06-21T12:57:53.028616905Z Jun 21, 2024 12:57:53 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:53.028638507Z INFO: login sucessfully
+2024-06-21T12:57:55.461025001Z Jun 21, 2024 12:57:55 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:55.461046154Z INFO: Clicking on profile sucessfully
+2024-06-21T12:57:57.518682059Z Jun 21, 2024 12:57:57 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:57.518723149Z INFO: Enter the name  sucessfully
+2024-06-21T12:57:59.564198151Z Jun 21, 2024 12:57:59 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:59.564229245Z INFO:  Parent Mobile number sucessfully
+2024-06-21T12:57:59.606153131Z Jun 21, 2024 12:57:59 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:57:59.606189149Z INFO: Marital status uploaded successfully
+2024-06-21T12:58:01.679197001Z Jun 21, 2024 12:58:01 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:01.679223286Z INFO: Religion upload successfully
+2024-06-21T12:58:12.888320562Z Jun 21, 2024 12:58:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:12.888339628Z INFO: Caste upload successfully
+2024-06-21T12:58:14.934397631Z Jun 21, 2024 12:58:14 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:14.934419922Z INFO: Do you have Caste Certificate upload successfully
+2024-06-21T12:58:18.984204941Z Jun 21, 2024 12:58:18 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:18.984238798Z INFO:  Caste Certificate number upload successfully
+2024-06-21T12:58:19.039786938Z Jun 21, 2024 12:58:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:19.039812465Z INFO:  Caste Issuing District upload successfully
+2024-06-21T12:58:23.100981516Z Jun 21, 2024 12:58:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:23.101025371Z INFO:  Caste Applicant Name upload successfully
+2024-06-21T12:58:25.159042289Z Jun 21, 2024 12:58:25 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:25.159069381Z INFO:  Caste Issuing Authority upload successfully
+2024-06-21T12:58:29.220887462Z Downloaded file deleted successfully.
+2024-06-21T12:58:33.228749635Z Jun 21, 2024 12:58:33 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:33.228771015Z INFO:  Caste Certificate upload successfully
+2024-06-21T12:58:39.527139141Z Jun 21, 2024 12:58:39 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:39.527179580Z INFO:  Caste Certificate date upload successfully
+2024-06-21T12:58:43.607555829Z Jun 21, 2024 12:58:43 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:43.607601346Z INFO:  Anual Income upload successfully
+2024-06-21T12:58:45.654150951Z Jun 21, 2024 12:58:45 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:45.654176090Z INFO:  have Income Certificate upload successfully
+2024-06-21T12:58:45.707113169Z Jun 21, 2024 12:58:45 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:45.707145196Z INFO:  Income Certificate No upload successfully
+2024-06-21T12:58:47.763400494Z Jun 21, 2024 12:58:47 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:47.763433772Z INFO:  Income Issuing Authority upload successfully
+2024-06-21T12:58:53.820695476Z Downloaded file deleted successfully.
+2024-06-21T12:58:55.828047245Z Jun 21, 2024 12:58:55 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:55.828077278Z INFO:  Income Certificate upload successfully
+2024-06-21T12:58:58.070544103Z Jun 21, 2024 12:58:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:58:58.070587715Z INFO:  Income Certificate Date upload successfully
+2024-06-21T12:59:02.110827587Z Jun 21, 2024 12:59:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:02.110859648Z INFO:  Are you Domicile of Maharashtra / Maharashtra-Karnataka Border upload successfully
+2024-06-21T12:59:04.154728801Z Jun 21, 2024 12:59:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:04.154757426Z INFO:  Do you have Domicile Certificate upload successfully
+2024-06-21T12:59:04.208018730Z Jun 21, 2024 12:59:04 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:04.208048530Z INFO:  Relation Type upload successfully
+2024-06-21T12:59:06.260044203Z Jun 21, 2024 12:59:06 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:06.260066298Z INFO:  Domicile Certificate No upload successfully
+2024-06-21T12:59:08.318799325Z Jun 21, 2024 12:59:08 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:08.318829048Z INFO:  Applicant Name upload successfully
+2024-06-21T12:59:10.377867018Z Jun 21, 2024 12:59:10 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:10.377896888Z INFO:  Applicant Name upload successfully
+2024-06-21T12:59:14.442142932Z Downloaded file deleted successfully.
+2024-06-21T12:59:16.449533444Z Jun 21, 2024 12:59:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:16.449599690Z INFO:  Domacile Certificate upload successfully
+2024-06-21T12:59:19.700883118Z Jun 21, 2024 12:59:19 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:19.700908304Z INFO:  Domacile Certificate upload successfully
+2024-06-21T12:59:21.755378330Z Jun 21, 2024 12:59:21 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:21.755416691Z INFO:  are you salaraid upload successfully
+2024-06-21T12:59:23.844236814Z Jun 21, 2024 12:59:23 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:23.844285194Z INFO: Adhar link  upload successfully
+2024-06-21T12:59:29.844622870Z Jun 21, 2024 12:59:29 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:29.844646664Z INFO: Personal Information upload successfully
+2024-06-21T12:59:37.053700009Z Jun 21, 2024 12:59:37 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:37.053720700Z INFO: Address Section
+2024-06-21T12:59:39.114324679Z Jun 21, 2024 12:59:39 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:39.114354778Z INFO: Village Name upload successfully
+2024-06-21T12:59:43.210969855Z Jun 21, 2024 12:59:43 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:43.210999349Z INFO: Permannent Address District upload successfully
+2024-06-21T12:59:45.264776669Z Jun 21, 2024 12:59:45 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:45.264802760Z INFO: Permannent Address Taluka upload successfully
+2024-06-21T12:59:51.501830170Z Jun 21, 2024 12:59:51 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:51.501865513Z INFO:  Is Father Alive upload successfully
+2024-06-21T12:59:53.575389799Z Jun 21, 2024 12:59:53 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:53.575419395Z INFO:   Father Name upload successfully
+2024-06-21T12:59:55.632507576Z Jun 21, 2024 12:59:55 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:55.632536203Z INFO:   Father Occupation upload successfully
+2024-06-21T12:59:57.705464610Z Jun 21, 2024 12:59:57 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:57.705493582Z INFO:   Father Is Salaried? upload successfully
+2024-06-21T12:59:59.752531858Z Jun 21, 2024 12:59:59 PM dbmanager.Mahadbt_1 main
+2024-06-21T12:59:59.752559064Z INFO:  Is Mother Alive upload successfully
+2024-06-21T13:00:01.824340554Z Jun 21, 2024 1:00:01 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:01.824367634Z INFO:  Mother name upload successfully
+2024-06-21T13:00:03.881218935Z Jun 21, 2024 1:00:03 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:03.881245728Z INFO:  Occupation upload successfully
+2024-06-21T13:00:05.934424780Z Jun 21, 2024 1:00:05 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:05.934741468Z INFO:  Is Salaried upload successfully
+2024-06-21T13:00:05.934773928Z Jun 21, 2024 1:00:05 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:05.934779637Z INFO:  Other Inforamation upload successfully
+2024-06-21T13:00:10.214713338Z Jun 21, 2024 1:00:10 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:10.214735556Z INFO:  Admission Year Cource upload successfully
+2024-06-21T13:00:10.275191489Z Jun 21, 2024 1:00:10 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:10.275223340Z INFO:  Institute State upload successfully
+2024-06-21T13:00:12.335441681Z Jun 21, 2024 1:00:12 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:12.335471548Z INFO:  Institute District upload successfully
+2024-06-21T13:00:14.389588709Z Jun 21, 2024 1:00:14 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:14.389619930Z INFO:  Institute Taluka upload successfully
+2024-06-21T13:00:16.444316192Z Jun 21, 2024 1:00:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:16.444340138Z INFO: Qualification Level upload successfully
+2024-06-21T13:00:16.517801446Z Jun 21, 2024 1:00:16 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:16.517884079Z INFO: Stream upload successfully
+2024-06-21T13:00:22.607232900Z Jun 21, 2024 1:00:22 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:22.607252308Z INFO:  College Name upload successfully
+2024-06-21T13:00:28.665040343Z Jun 21, 2024 1:00:28 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:28.665062795Z INFO:  Course Name upload successfully
+2024-06-21T13:00:28.722236371Z Jun 21, 2024 1:00:28 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:28.722257797Z INFO:  Admission Type upload successfully
+2024-06-21T13:00:28.752279776Z Jun 21, 2024 1:00:28 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:28.752296669Z INFO:  Cap_Percentage upload successfully
+2024-06-21T13:00:30.809173436Z Jun 21, 2024 1:00:30 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:30.809211018Z INFO:  Cap ID upload successfully
+2024-06-21T13:00:36.865368538Z Downloaded file deleted successfully.
+2024-06-21T13:00:36.865523321Z Jun 21, 2024 1:00:36 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:36.865532519Z INFO:  Cap Document upload successfully
+2024-06-21T13:00:37.927053746Z Jun 21, 2024 1:00:37 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:37.927073370Z INFO:  Year of study upload successfully
+2024-06-21T13:00:38.985459169Z Jun 21, 2024 1:00:38 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:38.985481580Z INFO:  First year completed or pursuing  upload successfully
+2024-06-21T13:00:41.235962193Z Jun 21, 2024 1:00:41 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:41.235980668Z INFO:  Admission date  upload successfully
+2024-06-21T13:00:42.280507072Z Jun 21, 2024 1:00:42 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:42.280544230Z INFO:  Fees Paid upload successfully
+2024-06-21T13:00:46.342359975Z Downloaded file deleted successfully.
+2024-06-21T13:00:46.342583867Z Jun 21, 2024 1:00:46 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:46.342605864Z INFO:  Fees/Admission Receipt/bonafide certificate  upload successfully
+2024-06-21T13:00:47.395234025Z Jun 21, 2024 1:00:47 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:47.395266978Z INFO:  Is Admission Through Open Or Reserved Category  upload successfully
+2024-06-21T13:00:50.455135622Z Jun 21, 2024 1:00:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:50.455163926Z INFO:  Mode  upload successfully
+2024-06-21T13:00:50.455173912Z Jun 21, 2024 1:00:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:50.455207796Z INFO:  Current Course details upload successfully
+2024-06-21T13:00:50.766900748Z Jun 21, 2024 1:00:50 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:50.766925374Z INFO:  Qualification Level upload successfully
+2024-06-21T13:00:53.864135588Z Jun 21, 2024 1:00:53 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:53.864167484Z INFO: Institute State upload successfully
+2024-06-21T13:00:54.921105718Z Jun 21, 2024 1:00:54 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:54.921131803Z INFO: Institute District upload successfully
+2024-06-21T13:00:56.975929134Z Jun 21, 2024 1:00:56 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:56.975955797Z INFO: Institute Taluka upload successfully
+2024-06-21T13:00:58.028868924Z Jun 21, 2024 1:00:58 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:00:58.028898460Z INFO: Institute Course upload successfully
+2024-06-21T13:01:02.130639608Z Jun 21, 2024 1:01:02 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:01:02.130667418Z INFO: Board of exam  upload successfully
+2024-06-21T13:01:03.177963764Z Jun 21, 2024 1:01:03 PM dbmanager.Mahadbt_1 main
+2024-06-21T13:01:03.177997535Z INFO: Mode 10 th upload successfully
